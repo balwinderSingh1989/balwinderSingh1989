@@ -37,8 +37,8 @@ Hi, My name is Balwinder Singh.  I am a technical geek. I'm dedicated, organized
 
 - 📫 How to reach me : (DO Follow the emoticon ) 😃
 - 💬 Ask me about anything an everything.
-- 📫 LinkedIn profile: [Yash Joshi](https://www.linkedin.com/in/balwinder-singh-29039b56/)
-- 🌀 Twitter:-   [yashjoshi_785](https://twitter.com/singhBalwinder_)
+- 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinder-singh-29039b56/)
+- 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjoshi007&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
 
