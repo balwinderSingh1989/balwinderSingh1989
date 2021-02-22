@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
 
-Hi, My name is Balwinder Singh.  I am a technical geek. I'm dedicated, organized and self directed individual possesses great communication skills with emphasis on positive rapport and relationship building talents .
+Hi, My name is Balwinder Singh. I'm a  forward-thinking Tech lead and developer offering 10 years of experience building, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform.
 
 ### Programming Languages  :rocket:
 |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ff1eaa7278f64e27128e062a3de918265.png?alt=media&token=a05e0358-a919-4c27-bb1a-1aa03d07183d" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fdownload.jpg?alt=media&token=f84769eb-78b3-43f7-aa34-8debf111fc89" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-html-5.png?alt=media&token=433bba37-6049-47d4-8cb6-4498d7886ff1" width=60> |
@@ -32,7 +32,7 @@ Hi, My name is Balwinder Singh.  I am a technical geek. I'm dedicated, organized
 
 
 
-![yashjoshi007 github stats](https://github-readme-stats.vercel.app/api?username=yashjoshi007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![balwinderSingh1989 github stats](https://github-readme-stats.vercel.app/api?username=balwinderSingh1989&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 - 📫 How to reach me : (DO Follow the emoticon ) 😃
@@ -40,9 +40,9 @@ Hi, My name is Balwinder Singh.  I am a technical geek. I'm dedicated, organized
 - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinder-singh-29039b56/)
 - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjoshi007&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balwinderSingh1989&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
 
 
 
 
-![](https://komarev.com/ghpvc/?username=yashjoshi007&color=blue)
+![](https://komarev.com/ghpvc/?username=balwinderSingh1989&color=blue)
