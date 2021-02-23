@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Greetings!, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
 
@@ -36,7 +36,7 @@ Hi, My name is Balwinder Singh. I'm a  forward-thinking Tech lead and developer 
 
 
 - 📫 How to reach me : (DO Follow the emoticon ) 😃
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinder-singh-29039b56/)
 - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
 
