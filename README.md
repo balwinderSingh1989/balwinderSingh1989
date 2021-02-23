@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
 
-Hi, My name is Balwinder Singh. I'm a  forward-thinking Tech lead and developer offering 10 years of experience building, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform.
+Hi, My name is Balwinder Singh. I'm a  forward-thinking tech lead and software developer with 10 years of experience building, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform.
+
+I am currently working with one of the largest banking groups in the Middle East as an Senior Android Developer. 
+
 
 ### Programming Languages  :rocket:
 |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ff1eaa7278f64e27128e062a3de918265.png?alt=media&token=a05e0358-a919-4c27-bb1a-1aa03d07183d" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fdownload.jpg?alt=media&token=f84769eb-78b3-43f7-aa34-8debf111fc89" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-html-5.png?alt=media&token=433bba37-6049-47d4-8cb6-4498d7886ff1" width=60> |
