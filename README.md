@@ -42,7 +42,7 @@ I am currently working with one of the largest banking groups in the Middle East
 - 💬 Ask me about anything and everything.
 - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
 - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
--    Resume - https://xd.adobe.com/view/20225464-b850-4b0f-9eef-66c87c16ad02-7571/screen/db503142-5f5a-48f1-a1bd-0c6fa08881e6/
+-    Resume - https://drive.google.com/file/d/16uLqpCaZ42aPRjPBEXfSKjCVPVzRlEB1/view?usp=sharing
 -    CV.    - https://drive.google.com/file/d/1DbQ2V2AMy7VktF7OcVrTUUoTnSIhNKSJ/view?usp=sharing
 
 
