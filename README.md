@@ -38,7 +38,8 @@ I am currently working with one of the largest banking groups in the Middle East
 ![balwinderSingh1989 github stats](https://github-readme-stats.vercel.app/api?username=balwinderSingh1989&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
-- 📫 How to reach me : (DO Follow the emoticon ) 😃
+📫 How to reach me : (DO Follow the emoticon ) 😃
+
 - 💬 Ask me about anything and everything.
 - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
 - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
