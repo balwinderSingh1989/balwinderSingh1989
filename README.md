@@ -16,7 +16,7 @@ Hi, My name is Balwinder Singh. I'm a forward-thinking tech lead and software de
     - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
     - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact:  I love to cook and that could be the reason why i just hate bad ingredients choices in any project i work with.
 
 
 
