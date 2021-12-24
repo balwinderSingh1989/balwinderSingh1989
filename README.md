@@ -34,8 +34,7 @@ Hi, My name is Balwinder Singh. I'm a forward-thinking tech lead and software de
 
 ![balwinderSingh1989 github stats](https://github-readme-stats.vercel.app/api?username=balwinderSingh1989&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-
-
+Hire me? 
 -    Resume - https://drive.google.com/file/d/16uLqpCaZ42aPRjPBEXfSKjCVPVzRlEB1/view?usp=sharing
 -    CV.    - https://drive.google.com/file/d/1DbQ2V2AMy7VktF7OcVrTUUoTnSIhNKSJ/view?usp=sharing
 
