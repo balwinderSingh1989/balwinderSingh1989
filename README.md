@@ -10,7 +10,7 @@ Hi, My name is Balwinder Singh. I'm a forward-thinking tech lead and software de
 - 🔭 I’m currently working with one of the largest banking groups in the Middle East as an Senior Android Developer.
 - 🌱 I’m currently learning and exploring backend tech stack (Ktor , spring framework , firebase .. )
 - 👯 I’m looking to collaborate with like minded tech peepps to work on something intersting and meaninfull :)  
-- 💬 Ask me about mobile apps development, meditation and yoga. 
+- 💬 Ask me about mobile apps development, meditation, yoga and parenting(my new area of expertise after having 2 kids :P )
 - 📫 How to reach me: 
 
     - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
