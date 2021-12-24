@@ -13,8 +13,8 @@ Hi, My name is Balwinder Singh. I'm a forward-thinking tech lead and software de
 - 💬 Ask me about mobile apps development, meditation and yoga. 
 - 📫 How to reach me: 
 
-      - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
-      - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
+    - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
+    - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
 
 - ⚡ Fun fact: 
 
