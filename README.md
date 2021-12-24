@@ -4,7 +4,7 @@
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
 
 
-Hi, My name is Balwinder Singh. I'm aforward-thinking tech lead and software developer with 10 years of experience developing, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform.
+Hi, My name is Balwinder Singh. I'm a forward-thinking tech lead and software developer with 10 years of experience developing, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform.
 
 
 - 🔭 I’m currently working with one of the largest banking groups in the Middle East as an Senior Android Developer.
@@ -12,6 +12,7 @@ Hi, My name is Balwinder Singh. I'm aforward-thinking tech lead and software dev
 - 👯 I’m looking to collaborate with like minded tech peepps to work on something intersting and meaninfull :)  
 - 💬 Ask me about mobile apps development, meditation and yoga. 
 - 📫 How to reach me: 
+
       - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
       - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
 
