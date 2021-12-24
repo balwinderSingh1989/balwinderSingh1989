@@ -1,24 +1,22 @@
-<!--
-**yashjoshi007/yashjoshi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>Greetings!, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Greetings, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
 
-Hi, My name is Balwinder Singh. I'm a  forward-thinking tech lead and software developer with 10 years of experience building, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform.
 
-I am currently working with one of the largest banking groups in the Middle East as an Senior Android Developer. 
+Hi, My name is Balwinder Singh. I'm aforward-thinking tech lead and software developer with 10 years of experience developing, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform.
+
+
+- 🔭 I’m currently working with one of the largest banking groups in the Middle East as an Senior Android Developer.
+- 🌱 I’m currently learning and exploring backend tech stack (Ktor , spring framework , firebase .. )
+- 👯 I’m looking to collaborate with like minded tech peepps to work on something intersting and meaninfull :)  
+- 💬 Ask me about mobile apps development, meditation and yoga. 
+- 📫 How to reach me: 
+      - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
+      - 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
+
+- ⚡ Fun fact: 
+
 
 
 ### Programming Languages  :rocket:
@@ -36,11 +34,7 @@ I am currently working with one of the largest banking groups in the Middle East
 ![balwinderSingh1989 github stats](https://github-readme-stats.vercel.app/api?username=balwinderSingh1989&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
-📫 How to reach me : (DO Follow the emoticon ) 😃
 
-- 💬 Ask me about anything and everything.
-- 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
-- 🌀 Twitter:-   [@singhBalwinder_](https://twitter.com/singhBalwinder_)
 -    Resume - https://drive.google.com/file/d/16uLqpCaZ42aPRjPBEXfSKjCVPVzRlEB1/view?usp=sharing
 -    CV.    - https://drive.google.com/file/d/1DbQ2V2AMy7VktF7OcVrTUUoTnSIhNKSJ/view?usp=sharing
 
