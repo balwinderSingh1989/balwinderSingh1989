@@ -1,7 +1,7 @@
 
 <h2>Greetings, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"></h2>
 
-<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='100"'>
+<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='50" height="50'>
 
 
 Hi, My name is Balwinder Singh. I'm a forward-thinking tech lead and software developer with 11 years of experience developing, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform
