@@ -1,16 +1,15 @@
 
 <h2>Greetings, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"></h2>
 
-<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='50" height="50'>
 
+Hi, I'm **Balwinder Singh** — a Solutions Expert and Mobile-First Solution Architect with **14+ years** of experience building scalable, reusable digital platforms across mobile, web, and cloud.
 
-Hi, My name is Balwinder Singh. I'm a forward-thinking tech lead and software developer with 13 years of experience developing, integrating, testing, and supporting applications for mobile and tablet devices on the Android and Hybrid platform
+My journey started with **C++**, moved through **C#, Java**, and enterprise systems, evolved into **mobile architecture** (Android, iOS, Flutter), and now I'm exploring the frontier of **AI agents** — because staying still was never really an option.
 
-
-- 🔭 I’m currently working with one of the largest banking groups in the Middle East as an Senior Android Developer.
-- 🌱 I’m currently learning and exploring backend tech stack (Ktor , spring framework , firebase .. )
-- 👯 I’m looking to collaborate with like minded tech peepps to work on something intersting and meaninfull :)  
-- 💬 Ask me about mobile apps development, meditation, yoga and parenting(my new area of expertise after having 2 kids :P )
+- 🔭 Currently working as a **Solutions Expert at Al-Futtaim** — designing enterprise-wide solutions that bridge business goals with future-ready technology.
+- 🤖 Currently learning and building with **AI Agents** — exploring how intelligent automation can reshape how we design and deliver solutions.
+- 👯 Always open to collaborating with like-minded engineers on something meaningful, scalable, and worth shipping.
+- 💬 Ask me about **mobile architecture, solution design, Flutter, Android, clean code, or how meditation actually makes you a better engineer** 🧘
 - 📫 How to reach me: 
 
     - 📫 LinkedIn profile: [Balwinder Singh](https://www.linkedin.com/in/balwinderS/)
